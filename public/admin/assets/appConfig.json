@@ -1,0 +1,9 @@
+{
+    "appName": "Yoomee Health",
+    "apiBaseUrl": "https://admin.yoomeehealth.com/api/admin",
+    "mapsApiKey": "AIzaSyDZ5QM4Q6IXnLwzdhuJmGoGevw1lWVtot4",
+    "developerName": " Accent media SA",
+    "developerUrl": "https://accentmedia.hk/",
+    "defaultCategoryScope": "ecommerce",
+    "defaultBannerScope": "ecommerce"
+}
